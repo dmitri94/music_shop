@@ -1557,6 +1557,7 @@ drawable ic_mtrl_chip_close_circle
 drawable icon_back
 drawable icon_music_orange
 drawable icon_next
+drawable icon_pause
 drawable icon_play
 drawable material_ic_calendar_black_24dp
 drawable material_ic_clear_black_24dp
@@ -1677,7 +1678,7 @@ id beginning
 id blocking
 id bottom
 id bounce
-id button
+id buttonMusic
 id buttonPanel
 id cache_measures
 id cancel_button
@@ -1770,10 +1771,10 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imagePlay
 id imageView1
 id imageView2
 id imageView3
-id imageView3_1
 id imageView4
 id imageView4_1
 id imageView5
@@ -2048,6 +2049,7 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
+layout git_hub
 layout mtrl_alert_dialog
 layout mtrl_alert_dialog_actions
 layout mtrl_alert_dialog_title
@@ -2146,6 +2148,7 @@ string fab_transformation_sheet_behavior
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string item_view_role_description
+string love_is_gone
 string material_slider_range_end
 string material_slider_range_start
 string mtrl_badge_numberless_content_description

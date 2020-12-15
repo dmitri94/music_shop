@@ -8,8 +8,16 @@
         "source": "/Users/mcbook/Desktop/MusicPlayer/app/src/main/res/drawable/bground.jpg"
     },
     {
+        "merged": "/Users/mcbook/Desktop/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-mdpi_icon_pause.png.flat",
+        "source": "/Users/mcbook/Desktop/MusicPlayer/app/build/generated/res/pngs/debug/drawable-mdpi/icon_pause.png"
+    },
+    {
         "merged": "/Users/mcbook/Desktop/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_background.png.flat",
         "source": "/Users/mcbook/Desktop/MusicPlayer/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/mcbook/Desktop/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-xhdpi_icon_pause.png.flat",
+        "source": "/Users/mcbook/Desktop/MusicPlayer/app/build/generated/res/pngs/debug/drawable-xhdpi/icon_pause.png"
     },
     {
         "merged": "/Users/mcbook/Desktop/MusicPlayer/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
@@ -96,12 +104,16 @@
         "source": "/Users/mcbook/Desktop/MusicPlayer/app/build/generated/res/pngs/debug/drawable-mdpi/icon_back.png"
     },
     {
-        "merged": "/Users/mcbook/Desktop/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_icon_play.xml.flat",
-        "source": "/Users/mcbook/Desktop/MusicPlayer/app/build/generated/res/pngs/debug/drawable-anydpi-v21/icon_play.xml"
+        "merged": "/Users/mcbook/Desktop/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_icon_pause.png.flat",
+        "source": "/Users/mcbook/Desktop/MusicPlayer/app/build/generated/res/pngs/debug/drawable-hdpi/icon_pause.png"
     },
     {
         "merged": "/Users/mcbook/Desktop/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
         "source": "/Users/mcbook/Desktop/MusicPlayer/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/mcbook/Desktop/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_icon_play.xml.flat",
+        "source": "/Users/mcbook/Desktop/MusicPlayer/app/build/generated/res/pngs/debug/drawable-anydpi-v21/icon_play.xml"
     },
     {
         "merged": "/Users/mcbook/Desktop/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_icon_music_orange.png.flat",
@@ -124,8 +136,16 @@
         "source": "/Users/mcbook/Desktop/MusicPlayer/app/build/generated/res/pngs/debug/drawable-xxxhdpi/icon_play.png"
     },
     {
+        "merged": "/Users/mcbook/Desktop/MusicPlayer/app/build/intermediates/res/merged/debug/layout_git_hub.xml.flat",
+        "source": "/Users/mcbook/Desktop/MusicPlayer/app/src/main/res/layout/git_hub.xml"
+    },
+    {
         "merged": "/Users/mcbook/Desktop/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_icon_back.png.flat",
         "source": "/Users/mcbook/Desktop/MusicPlayer/app/build/generated/res/pngs/debug/drawable-hdpi/icon_back.png"
+    },
+    {
+        "merged": "/Users/mcbook/Desktop/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_icon_pause.xml.flat",
+        "source": "/Users/mcbook/Desktop/MusicPlayer/app/build/generated/res/pngs/debug/drawable-anydpi-v21/icon_pause.xml"
     },
     {
         "merged": "/Users/mcbook/Desktop/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-ldpi_icon_back.png.flat",
@@ -134,6 +154,10 @@
     {
         "merged": "/Users/mcbook/Desktop/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_icon_music_orange.png.flat",
         "source": "/Users/mcbook/Desktop/MusicPlayer/app/build/generated/res/pngs/debug/drawable-hdpi/icon_music_orange.png"
+    },
+    {
+        "merged": "/Users/mcbook/Desktop/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_icon_pause.png.flat",
+        "source": "/Users/mcbook/Desktop/MusicPlayer/app/build/generated/res/pngs/debug/drawable-xxxhdpi/icon_pause.png"
     },
     {
         "merged": "/Users/mcbook/Desktop/MusicPlayer/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
@@ -196,6 +220,10 @@
         "source": "/Users/mcbook/Desktop/MusicPlayer/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
+        "merged": "/Users/mcbook/Desktop/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-ldpi_icon_pause.png.flat",
+        "source": "/Users/mcbook/Desktop/MusicPlayer/app/build/generated/res/pngs/debug/drawable-ldpi/icon_pause.png"
+    },
+    {
         "merged": "/Users/mcbook/Desktop/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon_music_orange.png.flat",
         "source": "/Users/mcbook/Desktop/MusicPlayer/app/build/generated/res/pngs/debug/drawable-xxhdpi/icon_music_orange.png"
     },
@@ -210,5 +238,9 @@
     {
         "merged": "/Users/mcbook/Desktop/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_background.png.flat",
         "source": "/Users/mcbook/Desktop/MusicPlayer/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/mcbook/Desktop/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon_pause.png.flat",
+        "source": "/Users/mcbook/Desktop/MusicPlayer/app/build/generated/res/pngs/debug/drawable-xxhdpi/icon_pause.png"
     }
 ]
