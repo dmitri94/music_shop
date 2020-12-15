@@ -2,17 +2,17 @@
     <!-- Base application theme. -->
     <!-- стиль для заднего фона -->
     <style name="Theme.MusicPlayer" parent="Theme.AppCompat.Light.DarkActionBar">
-    <!-- Primary brand color. -->
-    <item name="colorPrimary">#2A43D1</item>
-    <item name="colorPrimaryVariant">#061881</item>
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#2A43D1</item>
+        <item name="colorPrimaryVariant">#061881</item>
         <item name="titleTextColor">@color/orange2</item>
 
-    <!-- Secondary brand color. -->
-    <item name="colorSecondary">@color/orange2</item>
-    <item name="colorSecondaryVariant">@color/teal_700</item>
-    <item name="colorOnSecondary">@color/orange2</item>
-    <!-- Status bar color. -->
-    <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/orange2</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/orange2</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
     </style>
     <!-- Customize your theme here. -->
 </resources>

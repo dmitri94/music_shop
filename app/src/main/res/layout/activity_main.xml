@@ -8,7 +8,7 @@
 
     tools:context=".MainActivity">
 
-    <Button
+    <TextView
         android:id="@+id/buttonMusic"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -72,6 +72,7 @@
 
     <ImageView
         android:id="@+id/imageView4"
+        android:onClick="onClickNext"
         android:layout_width="0dp"
         android:layout_height="50dp"
         android:layout_gravity="center_vertical"
@@ -106,6 +107,7 @@
 
     <ImageView
         android:id="@+id/imageView3"
+        android:onClick="onClickPlay"
         android:layout_width="50dp"
         android:layout_height="50dp"
         android:layout_gravity="center_vertical"
@@ -136,6 +138,7 @@
 
     <ImageView
         android:id="@+id/imageView5"
+        android:onClick="onClickBack"
         android:layout_width="0dp"
         android:layout_height="50dp"
         android:layout_gravity="center_vertical"
