@@ -16,7 +16,7 @@
         android:layout_marginLeft="160dp"
         android:layout_marginEnd="159dp"
         android:layout_marginRight="159dp"
-        android:text="@string/love_is_gone"
+        android:text="Кружит -Монатик"
         android:textAllCaps="false"
         android:textColor="#F39305"
         android:textSize="20sp"

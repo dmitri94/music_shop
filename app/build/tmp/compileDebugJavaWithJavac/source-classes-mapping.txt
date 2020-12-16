@@ -3,3 +3,4 @@ com/neco_test/hfad/musicplayer/BuildConfig.java
 com/neco_test/hfad/musicplayer/MainActivity.java
  com.neco_test.hfad.musicplayer.MainActivity
  com.neco_test.hfad.musicplayer.MainActivity$1
+ com.neco_test.hfad.musicplayer.MainActivity$2

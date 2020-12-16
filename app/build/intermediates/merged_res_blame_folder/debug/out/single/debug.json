@@ -92,6 +92,10 @@
         "source": "/Users/mcbook/Desktop/MusicPlayer/app/build/generated/res/pngs/debug/drawable-xxxhdpi/icon_back.png"
     },
     {
+        "merged": "/Users/mcbook/Desktop/MusicPlayer/app/build/intermediates/res/merged/debug/raw_crujit.mp3.flat",
+        "source": "/Users/mcbook/Desktop/MusicPlayer/app/src/main/res/raw/crujit.mp3"
+    },
+    {
         "merged": "/Users/mcbook/Desktop/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_background.png.flat",
         "source": "/Users/mcbook/Desktop/MusicPlayer/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
     },
